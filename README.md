@@ -9,6 +9,5 @@ We'll be handling our own BEC situation, where a malicious actor (played by Leon
  **Since I have had experience with Wireshark and Pcap analysis, this lab allowed me to further solidify the following skills:**
 - Inspecting pcap files and extracting their contents (In this scenario emails)
 - Identifying fraudelent emails vs legitamate (Phishing!)
-- How to identify the malicious/threat actor
+- How to identify the malicious/threat actor (Through wireshark)
 
-The pcap files I analyzed are provided as "pcap
