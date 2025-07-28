@@ -11,5 +11,4 @@ We'll be handling our own BEC situation, where a malicious actor (played by Leon
 - Identifying fraudelent emails vs legitamate (Phishing!)
 - How to identify the malicious/threat actor
 
-
-
+The pcap files I analyzed are provided as "pcap
